@@ -58,30 +58,31 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-030&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-030&show_icons=true&theme=discord" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-030&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-030&theme=discord" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-030&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-030&layout=compact&theme=discord" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🥇 Contribution Stats  
 
-![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=Ahmad-030&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=Ahmad-030&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
 ---
 
 ## 📝 Random Dev Quote  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=discord" alt="Dev Quote"/>
 </p>
+
 
 ---
 
