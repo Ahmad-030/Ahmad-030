@@ -58,18 +58,22 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-030&show_icons=true&theme=discord" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-030&theme=discord" alt="Streak Stats" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-030&show_icons=true&theme=discord" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-030&theme=discord" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-030&layout=compact&theme=discord" alt="Top Languages" />
 </p>
 
----
 
 ## 🥇 Contribution Stats  
 
