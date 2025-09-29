@@ -50,9 +50,9 @@
 
 ---
 
-## 🥇 Top Contributions  
+## 🥇 Contribution Stats  
 
-![Contributor Stats](https://camo.githubusercontent.com/919091c428edcd1bbcfb7ad751981d98469b5077ccf64f7223c161a8336f82c2/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653d417965736861417070446576266c696d69743d35267468656d653d6461726b26636f6d62696e655f616c6c5f796561726c795f636f6e747269627574696f6e733d74727565)
+![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=Ahmad-030&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
