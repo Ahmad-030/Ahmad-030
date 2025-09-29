@@ -100,5 +100,7 @@
 </p>
 
 ---
+<p align="center">
+  ⚡ <i>“Great apps start with great UI/UX — and Flutter makes that possible.”</i>
+</p>
 
-⚡ *“Great apps start with great UI/UX — and Flutter makes that possible.”*
