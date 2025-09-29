@@ -2,12 +2,15 @@
 
 💻 **Flutter Developer | UI/UX Designer | Firebase Enthusiast**  
 🚀 Passionate about building clean, scalable, and modern mobile apps with beautiful user experiences.  
+🔗 Skilled in **API creation, integration, and testing with Postman**.  
 
 ---
 
 ## 🔥 What I Do
 - 📱 Advanced **Flutter animations** & state management  
 - 🔑 Firebase **Auth, Firestore, Realtime Database** & Cloud Functions  
+- 🌍 REST API **creation & integration**  
+- 🧪 **API testing with Postman**  
 - 🎨 UI/UX design with **Figma** + **Flutter**  
 - 🛠️ Clean architecture & maintainable code  
 
@@ -16,6 +19,7 @@
 ## 🤝 Open To
 - Collaborating on impactful **Flutter-based projects**  
 - UI/UX-focused app development  
+- Backend development with **Node.js & MongoDB**  
 - Contributing to open-source mobile tools  
 
 ---
@@ -28,6 +32,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![API](https://img.shields.io/badge/API-Creation-blue?style=for-the-badge&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -47,10 +53,13 @@
 ---
 
 ## 📫 Let's Connect  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your-channel)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+
+<p align="center">
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://youtube.com/your-channel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
