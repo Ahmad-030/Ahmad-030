@@ -1,10 +1,15 @@
+<div align="center">
+
 # 👋 Hi, I'm Ahmad Asif  
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 💻 **Flutter Developer | UI/UX Designer | Firebase Enthusiast**  
 🚀 Passionate about building clean, scalable, and modern mobile apps with beautiful user experiences.  
 🔗 Skilled in **API creation, integration, and testing with Postman**.  
 
 ---
+</div>
 
 ## 🔥 What I Do
 - 📱 Advanced **Flutter animations** & state management  
@@ -14,7 +19,7 @@
 - 🎨 UI/UX design with **Figma** + **Flutter**  
 - 🛠️ Clean architecture & maintainable code  
 
----
+
 
 ## ⚡ Tech Stack  
 
@@ -36,17 +41,17 @@
 
 ---
 
+## 🏆 Contributions Snake  
+
+![snake gif](https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)
+
+---
+
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad-030&show_icons=true&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-030&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-030&layout=compact&theme=radical)  
-
----
-
-## 🏆 Contributions Snake  
-
-![snake gif](https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)
 
 ---
 
@@ -64,10 +69,9 @@
 ## 📫 Let's Connect  
 
 <p align="center">
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://youtube.com/your-channel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://ahmads03portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ahmadasif030/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="ahmadasif20222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
