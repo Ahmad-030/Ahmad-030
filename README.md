@@ -10,30 +10,26 @@
 - 📱 Advanced **Flutter animations** & state management  
 - 🔑 Firebase **Auth, Firestore, Realtime Database** & Cloud Functions  
 - 🌍 REST API **creation & integration**  
-- 🧪 **API testing with Postman**  
+- 🧪 **API testing with Postman & automation with Nodemon**  
 - 🎨 UI/UX design with **Figma** + **Flutter**  
 - 🛠️ Clean architecture & maintainable code  
 
 ---
 
-## 🤝 Open To
-- Collaborating on impactful **Flutter-based projects**  
-- UI/UX-focused app development  
-- Backend development with **Node.js & MongoDB**  
-- Contributing to open-source mobile tools  
-
----
-
 ## ⚡ Tech Stack  
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![API](https://img.shields.io/badge/API-Creation-blue?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -41,9 +37,22 @@
 ---
 
 ## 📊 GitHub Stats  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad-030&show_icons=true&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-030&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-030&layout=compact&theme=radical)  
+
+---
+
+## 🏆 Contributions Snake  
+
+![snake gif](https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667)
+
+---
+
+## 🥇 Top Contributions  
+
+![Contributor Stats](https://camo.githubusercontent.com/919091c428edcd1bbcfb7ad751981d98469b5077ccf64f7223c161a8336f82c2/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653d417965736861417070446576266c696d69743d35267468656d653d6461726b26636f6d62696e655f616c6c5f796561726c795f636f6e747269627574696f6e733d74727565)
 
 ---
 
