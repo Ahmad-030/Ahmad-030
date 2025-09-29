@@ -19,7 +19,7 @@
 - 🎨 UI/UX design with **Figma** + **Flutter**  
 - 🛠️ Clean architecture & maintainable code  
 
-
+---
 
 ## ⚡ Tech Stack  
 
@@ -46,9 +46,6 @@
 </p>
 
 ---
-
-## 🏆 Contributions Snake  
-
 <p align="center">
   <img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="snake gif" />
 </p>
@@ -74,7 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-030&layout=compact&theme=discord" alt="Top Languages" />
 </p>
 
-
+---
 ## 🥇 Contribution Stats  
 
 ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=Ahmad-030&limit=5&theme=discord&combine_all_yearly_contributions=true)
