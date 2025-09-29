@@ -40,10 +40,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## 🏆 GitHub Profile Trophy  
-
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmad-030&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmad-030&theme=discord&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ---
