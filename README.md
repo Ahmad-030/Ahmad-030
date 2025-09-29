@@ -40,6 +40,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 🏆 GitHub Profile Trophy  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmad-030&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+---
 
 ## 🏆 Contributions Snake  
 
