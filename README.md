@@ -1,31 +1,28 @@
- <p align="center">
+\<!-- ==================== HEADER ==================== -->
 
-  <a href="https://github.com/Ahmad-030">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Ahmad%20Asif&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Flutter%20%26%20Java%20Developer%20%C2%B7%20Building%20Digital%20Solutions&descSize=20&descAlignY=64" width="100%" alt="Ahmad Asif - Flutter and Java Developer" />
-  </a>
+\<p align="center">
+&#x20; \<a href="[https://github.com/Ahmad-030](https://github.com/Ahmad-030)">
+&#x20;   \<img src="[https://capsule-render.vercel.app/api?type=rounded&color=0:071A2B,100:00BCD4&height=220&section=header&text=Ahmad%20Asif&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Flutter%20%26%20Java%20Developer%20%C2%B7%20Building%20Digital%20Solutions&descSize=20&descAlignY=64](https://capsule-render.vercel.app/api?type=rounded\&color=0:071A2B,100:00BCD4\&height=220\&section=header\&text=Ahmad%20Asif\&fontSize=80\&fontColor=FFFFFF\&animation=fadeIn\&fontAlignY=42\&desc=Flutter%20%26%20Java%20Developer%20%C2%B7%20Building%20Digital%20Solutions\&descSize=20\&descAlignY=64)" width="100%" alt="Ahmad Asif - Flutter and Java Developer" />
+&#x20; \</a>
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=7DD3FC&background=071A2B&center=true&vCenter=true&width=854&height=64&lines=%3E+Flutter+%26+Java+Developer.;%3E+Building+Scalable+Mobile+Applications.;%3E+Exploring+AI+%26+Automation](https://readme-typing-svg.demolab.com?font=VT323\&size=34\&duration=2000\&pause=1600\&color=7DD3FC\&background=071A2B\&center=true\&vCenter=true\&width=854\&height=64\&lines=%3E+Flutter+%26+Java+Developer.;%3E+Building+Scalable+Mobile+Applications.;%3E+Exploring+AI+%26+Automation)." width="100%" alt="Typing introduction" />
+\</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+Flutter+%26+Java+Developer.;%3E+Building+Scalable+Mobile+Applications.;%3E+Exploring+AI+%26+Automation." width="100%" alt="Typing lines" />
+\<p align="center">
+&#x20; \<a href="[https://www.linkedin.com/in/ahmadasif030/](https://www.linkedin.com/in/ahmadasif030/)">\<img src="[https://img.shields.io/badge/LinkedIn-00BCD4?style=for-the-badge&logo=linkedin&logoColor=071A2B](https://img.shields.io/badge/LinkedIn-00BCD4?style=for-the-badge\&logo=linkedin\&logoColor=071A2B)" alt="LinkedIn" />\</a>
+&#x20; \<a href="[https://ahmadasif.site](https://ahmadasif.site)">\<img src="[https://img.shields.io/badge/Portfolio-00BCD4?style=for-the-badge&logo=About.me&logoColor=071A2B](https://img.shields.io/badge/Portfolio-00BCD4?style=for-the-badge\&logo=About.me\&logoColor=071A2B)" alt="Portfolio" />\</a>
+&#x20; \<a href="mailto\:ahmadasif20222\@gmail.com">\<img src="[https://img.shields.io/badge/Email-00BCD4?style=for-the-badge&logo=gmail&logoColor=071A2B](https://img.shields.io/badge/Email-00BCD4?style=for-the-badge\&logo=gmail\&logoColor=071A2B)" alt="Email" />\</a>
+&#x20; \<a href="[https://a3solution.vercel.app](https://a3solution.vercel.app)">\<img src="[https://img.shields.io/badge/A3_Solutions-00BCD4?style=for-the-badge&logo=vercel&logoColor=071A2B](https://img.shields.io/badge/A3_Solutions-00BCD4?style=for-the-badge\&logo=vercel\&logoColor=071A2B)" alt="A3 Solutions" />\</a>
+\</p>
 
-</p>
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/3%2B-Years%20Experience-7DD3FC?style=for-the-badge&labelColor=071A2B](https://img.shields.io/badge/3%2B-Years%20Experience-7DD3FC?style=for-the-badge\&labelColor=071A2B)" alt="3+ Years Experience" />
+&#x20; \<img src="[https://img.shields.io/badge/Flutter-Mobile%20Development-7DD3FC?style=for-the-badge&labelColor=071A2B](https://img.shields.io/badge/Flutter-Mobile%20Development-7DD3FC?style=for-the-badge\&labelColor=071A2B)" alt="Flutter Development" />
+&#x20; \<img src="[https://img.shields.io/badge/AI-Automation-7DD3FC?style=for-the-badge&labelColor=071A2B](https://img.shields.io/badge/AI-Automation-7DD3FC?style=for-the-badge\&labelColor=071A2B)" alt="AI Automation" />
+\</p>
 
-<p align="center">
+\<!-- ==================== ABOUT ==================== -->
 
-  <a href="https://www.linkedin.com/in/ahmadasif030/"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ahmadasif.site"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:ahmadasif20222@gmail.com"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://a3solution.vercel.app"><img src="https://img.shields.io/badge/A3_Solutions-A21517?style=for-the-badge&logo=vercel&logoColor=white" alt="A3 Solutions" /></a>
-
-</p>
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/3%2B-Years%20Experience-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="3+ Years Experience" />
-  <img src="https://img.shields.io/badge/Flutter-Mobile%20Development-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Flutter Development" />
-  <img src="https://img.shields.io/badge/AI-Automation-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="AI Automation" />
-
-</p>
-
-## 🧬 about
+## 🧬 About Me
 
 ```python
 me = {
@@ -58,10 +55,10 @@ me = {
 }
 ```
 
-<details>
-<summary><b>🌱 how I got here. click for the short version</b></summary>
+\<details>
+\<summary>\<b>🌱 My Development Journey\</b>\</summary>
 
-<br />
+\<br />
 
 - Started exploring programming and application development.
 - Developed a strong foundation in Flutter and Dart.
@@ -71,140 +68,128 @@ me = {
 - Founded A3 Solutions to build digital products and technology solutions.
 - Started exploring AI integrations, AI agents, and workflow automation.
 
-</details>
+\</details>
 
-## 💼 experience
+\<!-- ==================== EXPERIENCE ==================== -->
 
-<table>
-  <tr>
-    <td width="36%" valign="top">
-      <b>Application Developer / Flutter Developer</b><br />
-      <sub>Edify College of IT (PVT) LTD</sub>
-    </td>
-    <td valign="top">
-      Contributing to multiple Flutter projects, implementing application features, real-time doctor-patient chat functionality, unique MCQ identification systems, state management with GetX, Firebase integrations, and REST API integration using Node.js backends.
-    </td>
-  </tr>
-  <tr>
-    <td width="36%" valign="top">
-      <b>Founder & Developer</b><br />
-      <sub>A3 Solutions</sub>
-    </td>
-    <td valign="top">
-      Building digital solutions for businesses, including mobile applications, websites, backend systems, AI-powered tools, chatbots, and workflow automation. Working on product development and technology-driven business solutions.
-    </td>
-  </tr>
-</table>
+## 💼 Experience
 
-## 🚀 projects
+\<table>
+&#x20; \<tr>
+&#x20;   \<td width="36%" valign="top">
+&#x20;     \<b>Application Developer / Flutter Developer\</b>\<br />
+&#x20;     \<sub>Edify College of IT (PVT) LTD\</sub>
+&#x20;   \</td>
+&#x20;   \<td valign="top">
+&#x20;     Contributing to multiple Flutter projects, implementing application features, real-time doctor-patient chat functionality, unique MCQ identification systems, state management with GetX, Firebase integrations, and REST API integration using Node.js backends.
+&#x20;   \</td>
+&#x20; \</tr>
+&#x20; \<tr>
+&#x20;   \<td width="36%" valign="top">
+&#x20;     \<b>Founder & Developer\</b>\<br />
+&#x20;     \<sub>A3 Solutions\</sub>
+&#x20;   \</td>
+&#x20;   \<td valign="top">
+&#x20;     Building digital solutions for businesses, including mobile applications, websites, backend systems, AI-powered tools, chatbots, and workflow automation. Working on product development and technology-driven business solutions.
+&#x20;   \</td>
+&#x20; \</tr>
+\</table>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+\<!-- ==================== PROJECTS ==================== -->
 
-      <h3>⚡ <a href="https://leadgenpro.live">LeadGen Pro</a></h3>
-      <sub><b>AI-Powered Lead Generation Platform · Live</b></sub>
+## 🚀 Projects
 
-      <p>A lead generation platform designed for developers, freelancers, and agencies. Discover business leads, evaluate website opportunities, and generate AI-powered outreach emails and proposals.</p>
+\<table>
+&#x20; \<tr>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>⚡ \<a href="[https://leadgenpro.live](https://leadgenpro.live)">LeadGen Pro\</a>\</h3>
+&#x20;     \<p>\<b>AI-Powered Lead Generation Platform · Live\</b>\</p>
+&#x20;     \<p>A lead generation platform designed for developers, freelancers, and agencies. Discover business leads, evaluate website opportunities, and generate AI-powered outreach emails and proposals.\</p>
+&#x20;     \<p>
+&#x20;       \<code>AI\</code>
+&#x20;       \<code>Web Development\</code>
+&#x20;       \<code>Automation\</code>
+&#x20;       \<code>Lead Generation\</code>
+&#x20;     \</p>
+&#x20;     \<a href="[https://leadgenpro.live](https://leadgenpro.live)">
+&#x20;       \<img src="[https://img.shields.io/badge/EXPLORE_PLATFORM-00BCD4?style=for-the-badge&logoColor=071A2B](https://img.shields.io/badge/EXPLORE_PLATFORM-00BCD4?style=for-the-badge\&logoColor=071A2B)" alt="Explore LeadGen Pro" />
+&#x20;     \</a>
+&#x20;   \</td>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>🚀 \<a href="[https://a3solution.vercel.app](https://a3solution.vercel.app)">A3 Solutions\</a>\</h3>
+&#x20;     \<p>\<b>Digital Solutions & Software Development\</b>\</p>
+&#x20;     \<p>A technology initiative focused on developing mobile applications, websites, backend systems, AI chatbots, business automation, and custom digital solutions.\</p>
+&#x20;     \<p>
+&#x20;       \<code>Flutter\</code>
+&#x20;       \<code>JavaScript\</code>
+&#x20;       \<code>Node.js\</code>
+&#x20;       \<code>AI\</code>
+&#x20;     \</p>
+&#x20;     \<a href="[https://a3solution.vercel.app](https://a3solution.vercel.app)">
+&#x20;       \<img src="[https://img.shields.io/badge/VISIT_WEBSITE-00BCD4?style=for-the-badge](https://img.shields.io/badge/VISIT_WEBSITE-00BCD4?style=for-the-badge)" alt="Visit A3 Solutions" />
+&#x20;     \</a>
+&#x20;   \</td>
+&#x20; \</tr>
+&#x20; \<tr>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>💰 SplitlyX\</h3>
+&#x20;     \<p>\<b>Trip Expense Management Application\</b>\</p>
+&#x20;     \<p>An expense management concept designed to simplify trip budgeting, shared expense calculations, financial tracking, and expense history with detailed reports and analytics.\</p>
+&#x20;     \<p>
+&#x20;       \<code>Flutter\</code>
+&#x20;       \<code>Dart\</code>
+&#x20;       \<code>SharedPreferences\</code>
+&#x20;     \</p>
+&#x20;   \</td>
+&#x20;   \<td width="50%" valign="top">
+&#x20;     \<h3>📂 \<a href="[https://github.com/Ahmad-030?tab=repositories](https://github.com/Ahmad-030?tab=repositories)">More Projects\</a>\</h3>
+&#x20;     \<p>\<b>Development & Experimentation\</b>\</p>
+&#x20;     \<p>Explore more of my work, including Flutter applications, Java games, web development, backend integrations, REST APIs, and automation experiments.\</p>
+&#x20;     \<p>
+&#x20;       \<code>Java\</code>
+&#x20;       \<code>Flutter\</code>
+&#x20;       \<code>Firebase\</code>
+&#x20;       \<code>MongoDB\</code>
+&#x20;     \</p>
+&#x20;     \<a href="[https://github.com/Ahmad-030?tab=repositories](https://github.com/Ahmad-030?tab=repositories)">
+&#x20;       \<img src="[https://img.shields.io/badge/EXPLORE_GITHUB-00BCD4?style=for-the-badge&logo=github&logoColor=071A2B](https://img.shields.io/badge/EXPLORE_GITHUB-00BCD4?style=for-the-badge\&logo=github\&logoColor=071A2B)" alt="Explore GitHub" />
+&#x20;     \</a>
+&#x20;   \</td>
+&#x20; \</tr>
+\</table>
 
-      <p>
-        <code>AI</code>
-        <code>Web Development</code>
-        <code>Automation</code>
-        <code>Lead Generation</code>
-      </p>
+\<!-- ==================== TECH STACK ==================== -->
 
-      <a href="https://leadgenpro.live">
-        <img src="https://img.shields.io/badge/Explore_Platform-A21517?style=for-the-badge" alt="Explore LeadGen Pro" />
-      </a>
+## 🧰 Tech Stack
 
-    </td>
-    <td width="50%" valign="top">
+\<p align="center">
+&#x20; \<b>Mobile & Frontend Development\</b>\<br />\<br />
+&#x20; \<img src="[https://skillicons.dev/icons?i=flutter,dart,java,html,css,js&perline=10&theme=dark](https://skillicons.dev/icons?i=flutter,dart,java,html,css,js\&perline=10\&theme=dark)" alt="Mobile and Frontend Technologies" />
+\</p>
 
-      <h3>🚀 <a href="https://a3solution.vercel.app">A3 Solutions</a></h3>
-      <sub><b>Digital Solutions & Software Development</b></sub>
+\<p align="center">
+&#x20; \<b>Backend & Database\</b>\<br />\<br />
+&#x20; \<img src="[https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=10&theme=dark](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase\&perline=10\&theme=dark)" alt="Backend and Database Technologies" />
+\</p>
 
-      <p>A technology initiative focused on developing mobile applications, websites, backend systems, AI chatbots, business automation, and custom digital solutions.</p>
+\<p align="center">
+&#x20; \<b>AI & Automation\</b>\<br />\<br />
+&#x20; \<img src="[https://skillicons.dev/icons?i=python&perline=10&theme=dark](https://skillicons.dev/icons?i=python\&perline=10\&theme=dark)" alt="Python" />\<br />\<br />
+&#x20; \<code>Gemini\</code>
+&#x20; \<code>n8n\</code>
+&#x20; \<code>AI Agents\</code>
+&#x20; \<code>OCR\</code>
+&#x20; \<code>TensorFlow Lite\</code>
+\</p>
 
-      <p>
-        <code>Flutter</code>
-        <code>JavaScript</code>
-        <code>Node.js</code>
-        <code>AI</code>
-      </p>
+\<p align="center">
+&#x20; \<b>Tools & Development Environment\</b>\<br />\<br />
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,figma&perline=10&theme=dark](https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,figma\&perline=10\&theme=dark)" alt="Development Tools" />
+\</p>
 
-      <a href="https://a3solution.vercel.app">
-        <img src="https://img.shields.io/badge/Visit_Website-A21517?style=for-the-badge" alt="Visit A3 Solutions" />
-      </a>
+\<!-- ==================== PHILOSOPHY ==================== -->
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-      <h3>💰 SplitlyX</h3>
-      <sub><b>Expense Management Application</b></sub>
-
-      <p>A trip expense management concept designed to simplify expense calculations, shared costs, financial tracking, and trip budgeting with detailed reports and analytics.</p>
-
-      <p>
-        <code>Flutter</code>
-        <code>Dart</code>
-        <code>SharedPreferences</code>
-      </p>
-
-    </td>
-    <td width="50%" valign="top">
-
-      <h3>📂 <a href="https://github.com/Ahmad-030">More Projects</a></h3>
-      <sub><b>Development & Experimentation</b></sub>
-
-      <p>Explore more of my work, including Flutter applications, Java projects, automation experiments, backend integrations, and other development projects.</p>
-
-      <p>
-        <code>Java</code>
-        <code>Flutter</code>
-        <code>Firebase</code>
-        <code>MongoDB</code>
-      </p>
-
-      <a href="https://github.com/Ahmad-030">
-        <img src="https://img.shields.io/badge/Explore_GitHub-A21517?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" />
-      </a>
-
-    </td>
-  </tr>
-</table>
-
-## 🧰 stack
-
-<p align="center">
-  <b>Mobile & Frontend Development</b>
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,html,css,js&perline=10&theme=dark" alt="Mobile and Frontend Technologies" />
-</p>
-
-<p align="center">
-  <b>Backend & Database</b>
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=10&theme=dark" alt="Backend and Database Technologies" />
-</p>
-
-<p align="center">
-  <b>AI & Automation</b>
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=python&perline=10&theme=dark" alt="AI and Programming" />
-  <br />
-  <code>Gemini</code> <code>n8n</code> <code>AI Agents</code> <code>OCR</code> <code>TensorFlow Lite</code>
-</p>
-
-<p align="center">
-  <b>Tools & Development Environment</b>
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,figma&perline=10&theme=dark" alt="Development Tools" />
-</p>
-
-## ⚙️ development philosophy
+## ⚙️ Development Philosophy
 
 ```dart
 class AhmadAsif {
@@ -256,19 +241,23 @@ class AhmadAsif {
 }
 ```
 
-## 📊 GitHub analytics
+\<!-- ==================== GITHUB ANALYTICS ==================== -->
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmad-030&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-030&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-030&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-030&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+\<p align="center">
+&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Ahmad-030&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=071A2B&title_color=00BCD4&icon_color=7DD3FC&text_color=B8E9F7](https://github-readme-stats.vercel.app/api?username=Ahmad-030\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true\&bg_color=071A2B\&title_color=00BCD4\&icon_color=7DD3FC\&text_color=B8E9F7)" alt="GitHub Stats" />
+&#x20; \<img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-030&theme=tokyonight&hide_border=true&background=071A2B&ring=00BCD4&fire=7DD3FC&currStreakLabel=00BCD4](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-030\&theme=tokyonight\&hide_border=true\&background=071A2B\&ring=00BCD4\&fire=7DD3FC\&currStreakLabel=00BCD4)" alt="GitHub Streak" />
+\</p>
 
-## 🎯 currently exploring
+\<p align="center">
+&#x20; \<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-030&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=071A2B&title_color=00BCD4&text_color=B8E9F7](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-030\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8\&bg_color=071A2B\&title_color=00BCD4\&text_color=B8E9F7)" alt="Top Languages" />
+&#x20; \<img width="49%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-030&bg_color=071A2B&color=7DD3FC&line=00BCD4&point=B8E9F7&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-030\&bg_color=071A2B\&color=7DD3FC\&line=00BCD4\&point=B8E9F7\&area=true\&hide_border=true)" alt="GitHub Activity Graph" />
+\</p>
+
+\<!-- ==================== CURRENT FOCUS ==================== -->
+
+## 🎯 Currently Exploring
 
 - 🚀 Advanced Flutter development and application architecture.
 - 🤖 AI-powered applications, agents, and Gemini integrations.
@@ -277,42 +266,40 @@ class AhmadAsif {
 - 📱 Building and publishing production-ready Android applications.
 - 💡 Developing innovative digital products and business solutions.
 
-## 📫 let's connect
+\<!-- ==================== CONTACT ==================== -->
 
-<p align="center">
+## 📫 Let's Connect
 
-  <a href="https://www.linkedin.com/in/ahmadasif030/">
-    <img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://ahmadasif.site">
-    <img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:ahmadasif20222@gmail.com">
-    <img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/923297762280">
-    <img src="https://img.shields.io/badge/WhatsApp-A21517?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://github.com/Ahmad-030">
-    <img src="https://img.shields.io/badge/GitHub-A21517?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+\<p align="center">
+&#x20; \<a href="[https://www.linkedin.com/in/ahmadasif030/](https://www.linkedin.com/in/ahmadasif030/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-00BCD4?style=for-the-badge&logo=linkedin&logoColor=071A2B](https://img.shields.io/badge/LinkedIn-00BCD4?style=for-the-badge\&logo=linkedin\&logoColor=071A2B)" alt="LinkedIn" />
+&#x20; \</a>
+&#x20; \<a href="[https://ahmadasif.site](https://ahmadasif.site)">
+&#x20;   \<img src="[https://img.shields.io/badge/Portfolio-00BCD4?style=for-the-badge&logo=About.me&logoColor=071A2B](https://img.shields.io/badge/Portfolio-00BCD4?style=for-the-badge\&logo=About.me\&logoColor=071A2B)" alt="Portfolio" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:ahmadasif20222\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-00BCD4?style=for-the-badge&logo=gmail&logoColor=071A2B](https://img.shields.io/badge/Email-00BCD4?style=for-the-badge\&logo=gmail\&logoColor=071A2B)" alt="Email" />
+&#x20; \</a>
+&#x20; \<a href="[https://wa.me/923297762280](https://wa.me/923297762280)">
+&#x20;   \<img src="[https://img.shields.io/badge/WhatsApp-00BCD4?style=for-the-badge&logo=whatsapp&logoColor=071A2B](https://img.shields.io/badge/WhatsApp-00BCD4?style=for-the-badge\&logo=whatsapp\&logoColor=071A2B)" alt="WhatsApp" />
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/Ahmad-030](https://github.com/Ahmad-030)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-00BCD4?style=for-the-badge&logo=github&logoColor=071A2B](https://img.shields.io/badge/GitHub-00BCD4?style=for-the-badge\&logo=github\&logoColor=071A2B)" alt="GitHub" />
+&#x20; \</a>
+\</p>
 
-</p>
+\<p align="center">
+&#x20; \<b>Working on something interesting? Let's connect and build something meaningful.\</b>
+\</p>
 
-<p align="center">
-  <b>Working on something interesting? Let's connect and build something meaningful.</b>
-</p>
+\<p align="center">
+&#x20; \<a href="mailto\:ahmadasif20222\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/LET](https://img.shields.io/badge/LET)'S_BUILD_SOMETHING-00BCD4?style=for-the-badge&logo=rocket&logoColor=071A2B" alt="Let's Build Something" />
+&#x20; \</a>
+\</p>
 
-<p align="center">
-  <a href="mailto:ahmadasif20222@gmail.com">
-    <img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-A21517?style=for-the-badge&logo=rocket&logoColor=white" alt="Let's Build Something" />
-  </a>
-</p>
+\<!-- ==================== FOOTER ==================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=Turning%20Ideas%20Into%20Digital%20Solutions&fontSize=27&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Turning Ideas Into Digital Solutions" />
-</p>
+\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=rounded&color=0:00BCD4,100:071A2B&height=90&section=footer&text=Turning%20Ideas%20Into%20Digital%20Solutions&fontSize=27&fontColor=FFFFFF&fontAlignY=52](https://capsule-render.vercel.app/api?type=rounded\&color=0:00BCD4,100:071A2B\&height=90\&section=footer\&text=Turning%20Ideas%20Into%20Digital%20Solutions\&fontSize=27\&fontColor=FFFFFF\&fontAlignY=52)" width="100%" alt="Turning Ideas Into Digital Solutions" /> \</p>
 
-<p align="center">
-  <b>🖤 Thanks for visiting my profile. Don't forget to explore my repositories!</b>
-</p>
+\<p align="center">   \<b>💙 Thanks for visiting my profile. Don't forget to explore my repositories!\</b> \</p>
